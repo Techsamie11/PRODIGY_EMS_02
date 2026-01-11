@@ -1,1 +1,2 @@
 # PRODIGY_EMS_02
+An Employee Management System is a software application used to manage employee records efficiently. It supports CRUD operations—Create (add new employee details), Read (view employee information), Update (modify existing employee records), and Delete (remove employee data). The system helps organizations maintain accurate employee data, streamline administrative tasks, and improve data accessibility and management.
