@@ -1,4 +1,4 @@
-# PRODIGY_EMS_02
+# Employee_Management_System
 <h2><b>Overview</b></h2>
 This project focuses on developing a web-based Employee Management System to efficiently manage and maintain employee records. The system allows users to perform essential operations such as adding, viewing, updating, and deleting employee details through a user-friendly interface.
 
