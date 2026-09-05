@@ -1,6 +1,6 @@
 # Employee_Management_System
 <h2><b>Overview</b></h2>
-This project focuses on developing a web-based Employee Management System to efficiently manage and maintain employee records. The system allows users to perform essential operations such as adding, viewing, updating, and deleting employee details through a user-friendly interface.
+This project focuses on developing a web-based Employee Management System to efficiently manage and maintain employee records. The system allows users to perform essential operations such as adding, viewing, updating, and deleting employee details through a user-friendly interface. 
 
 The <b>backend</b> is implemented using JSP and JDBC to handle business logic and ensure secure database communication with PostgreSQL.<br>
 The <b>frontend</b> is developed using HTML, CSS, and Bootstrap, providing a responsive and intuitive UI for smooth interaction. Dynamic data rendering ensures real-time updates of employee information.
